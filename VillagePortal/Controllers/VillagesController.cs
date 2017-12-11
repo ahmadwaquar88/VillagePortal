@@ -21,6 +21,7 @@ namespace VillagePortal.Controllers
         public IQueryable<Village> GetVillages()
         {
             return db.Villages;
+            //sasasas
         }
 
         // GET: api/Villages/5
